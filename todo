@@ -1,0 +1,12 @@
+Create a variable for storing the to-do items (e.g. const todoList = []).
+Select the HTML elements that you'll need to interact with (e.g. the input field, add button, and list container).
+Add an event listener to the add button that triggers when it's clicked.
+Inside the event listener, get the value of the input field.
+Add the input value to the to-do list variable using the push() method.
+Create an HTML element for each item in the to-do list (e.g. li element).
+Add the item text as the textContent of the new li element.
+Append the new li element to the list container.
+Clear the input field by setting its value to an empty string.
+Add event listeners to each list item that remove the item from the to-do list when clicked.
+Update the HTML by removing the corresponding li element from the list container.
+(Optional) Add functionality to edit and mark completed tasks.
